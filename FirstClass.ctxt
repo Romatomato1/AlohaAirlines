@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FirstClass
+comment0.text=\r\n\ A\ seat\ in\ first\ class.\r\n\r\n\ @author\ Roman\ Gofman\r\n\ @version\ 4/28/2020\r\n
+comment1.params=seatNumber\ customerConfirmation\ flight
+comment1.target=FirstClass(java.lang.String,\ CustomerConfirmation,\ Flight)
+comment1.text=\r\n\ Economy\ Constructor\ to\ create\ an\ economy\ object.\r\n\r\n\ @param\ seatNumber\ A\ parameter\ representing\ the\ seat\ number.\r\n\ @param\ customerConfirmation\ A\ parameter\ for\ the\ customer\ confirmation.\r\n\ @param\ flight\ A\ parameter\ for\ the\ flight\r\n
+comment2.params=
+comment2.target=int\ getRecline()
+comment2.text=\r\n\ Method\ getRecline\ returns\ the\ inches\ that\ the\ seat\ can\ recline\r\n\r\n\ @return\ the\ inches\ a\ seat\ can\ recline\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Method\ toString\ takes\ in\ data\ and\ returns\ it\ in\ an\ appealing\ manner.\r\n\r\n\ @return\ a\ string\ value\ of\ the\ data.\r\n
+numComments=4

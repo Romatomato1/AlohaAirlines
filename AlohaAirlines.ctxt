@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AlohaAirlines
+comment0.text=\r\n\ A\ Main\ method\ to\ run\ the\ other\ methods\r\n\r\n\ @author\ Roman\ Gofman\r\n\ @version\ 4/28/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Method\ main\ implements\ and\ tests\ classes\ together.\r\n\r\n\ @param\ args\ A\ parameter\r\n
+numComments=2
